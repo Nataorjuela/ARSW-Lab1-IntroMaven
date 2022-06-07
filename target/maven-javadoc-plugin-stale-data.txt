@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/clases/Documents/mi-primera-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/clases/Documents/mi-primera-app/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mi-primera-app 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/clases/Documents/mi-primera-app/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'mi-primera-app 1.0-SNAPSHOT API'
+edu.escuelaing.arsw.ASE.app
+'C:/Users/clases/Documents/mi-primera-app/src/main/java/edu/escuelaing/arsw/ASE/app/App.java'
+C:\Users\clases\Documents\mi-primera-app\src\main\java = 1654614104496
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\allclasses-index.html = 1654616000212
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\allclasses.html = 1654616000243
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\allpackages-index.html = 1654616000227
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\constant-values.html = 1654616000071
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\deprecated-list.html = 1654616000243
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\element-list = 1654616000024
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\help-doc.html = 1654616000274
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\index-all.html = 1654616000196
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\index.html = 1654616000243
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\member-search-index.js = 1654616000181
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\member-search-index.zip = 1654616000196
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\overview-tree.html = 1654616000103
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\package-search-index.js = 1654616000118
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\package-search-index.zip = 1654616000181
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\script.js = 1654616000290
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\search.js = 1654616000290
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\stylesheet.css = 1654616000290
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\type-search-index.js = 1654616000181
+C:\Users\clases\Documents\mi-primera-app\target\site\apidocs\type-search-index.zip = 1654616000181
